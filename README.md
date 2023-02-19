@@ -1,0 +1,1 @@
+[(https://linuxconfig.org/how-to-disable-middle-mouse-button-click-paste-on-ubuntu-20-04-focal-fossa-linux)]https://linuxconfig.org/how-to-disable-middle-mouse-button-click-paste-on-ubuntu-20-04-focal-fossa-linuxhttps://linuxconfig.org/how-to-disable-middle-mouse-button-click-paste-on-ubuntu-20-04-focal-fossa-linux
